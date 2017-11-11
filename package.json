@@ -1,0 +1,23 @@
+{
+  "name": "onishe-logistic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OkweyeChioma/onishe-logistic.git"
+  },
+  "author": "okweye chioma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OkweyeChioma/onishe-logistic/issues"
+  },
+  "homepage": "https://github.com/OkweyeChioma/onishe-logistic#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  }
+}

@@ -1,0 +1,42 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge black;
+    min-height:300px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background:#FFFF33;
+    color:black;
+}
+.navbar-inverse {
+     background-color:black;
+	 color:yellow;
+}
+.footer{
+	color:yellow;
+    margin:0px auto;
+	background:black;
+	
+    
+}
+
+h2{
+	font-family:fantasy;
+	color:teal;
+}
+#btn{
+	background-color:teal;
+	color:yellow;
+}
+#contn{
+	border-left:1px ridge teal;
+	border-right:1px ridge teal;
+}
+
